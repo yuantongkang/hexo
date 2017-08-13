@@ -78,6 +78,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo:https://yuantongkang.github.io/hexo/
-  branch:master
+  repo:git@github.com:yuantongkang/hexo.git
   message:"更新"
